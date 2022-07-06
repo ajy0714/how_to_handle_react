@@ -1,4 +1,4 @@
-import CounterContainer from './containers/CounterContainer';
+import CounterContainer from './container/CounterContainer';
 
 const App = () => {
     return (
